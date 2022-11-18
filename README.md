@@ -7,9 +7,11 @@
   📫 E-mail: <a href='mailto:bruno_afonso_henrique@outlook.com'>bruno_afonso_henrique@outlook.com</a>
 </p>
 
-![BrunoAfonsoHenrique GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAfonsoHenrique&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAfonsoHenrique&layout=compact)](https://github.com/BrunoAfonsoHenrique/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/BrunoAfonsoHenrique">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoAfonsoHenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAfonsoHenrique&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Tecnologias que eu estudo e uso no meu dia
 
