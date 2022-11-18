@@ -9,6 +9,8 @@
 
 ![BrunoAfonsoHenrique GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAfonsoHenrique&show_icons=true&theme=dracula)
 
+## Tecnologias que eu estudo e uso no meu dia
+
 <div style="display: inline_block"><br/>
 	<img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 	<img alt="java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
