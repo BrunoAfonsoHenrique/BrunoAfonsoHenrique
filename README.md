@@ -20,7 +20,8 @@
 	<img alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 	<img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
-	
+
+## GitHub status
 <div >
   <a href="https://github.com/BrunoAfonsoHenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoAfonsoHenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
