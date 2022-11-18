@@ -1,12 +1,12 @@
 ### Olá! Eu sou o Bruno Afonso ✋
+
+- 💻Hoje trabalho com back-end (JAVA)
+- 🚀Atualmente estou estudando Java através curso de especialista Java da AlgaWorks
+- 📫 E-mail: <a href='mailto:bruno_afonso_henrique@outlook.com'>bruno_afonso_henrique@outlook.com</a>
 <a href="https://www.linkedin.com/in/bruno-afonso-henrique/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   
- <p>
-  📫 E-mail: <a href='mailto:bruno_afonso_henrique@outlook.com'>bruno_afonso_henrique@outlook.com</a>
-</p>
-
 <div>
   <a href="https://github.com/BrunoAfonsoHenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoAfonsoHenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
