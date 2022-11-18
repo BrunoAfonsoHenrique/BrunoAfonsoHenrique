@@ -1,4 +1,4 @@
-### Olá! Eu sou o Bruno Afonso ✋
+## Olá! Eu sou o Bruno Afonso ✋
 
 - 💻Hoje trabalho com back-end (JAVA)
 - 🚀Atualmente estou estudando Java através curso de especialista Java da AlgaWorks
