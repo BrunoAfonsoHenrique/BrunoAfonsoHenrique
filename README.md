@@ -4,7 +4,7 @@
 - 🚀Atualmente estou estudando Java através curso de especialista Java da AlgaWorks
 - 📫 E-mail: <a href='mailto:bruno_afonso_henrique@outlook.com'>bruno_afonso_henrique@outlook.com</a>
 
-## Redes sociais
+### Redes sociais
 <a href="https://www.linkedin.com/in/bruno-afonso-henrique/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
