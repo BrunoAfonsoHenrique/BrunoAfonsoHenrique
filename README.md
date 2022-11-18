@@ -6,9 +6,11 @@
  <p>
   📫 E-mail: <a href='mailto:bruno_afonso_henrique@outlook.com'>bruno_afonso_henrique@outlook.com</a>
 </p>
-
+<div>
 ![BrunoAfonsoHenrique GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAfonsoHenrique&show_icons=true&theme=dracula)
-
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAfonsoHenrique&layout=compact)](https://github.com/BrunoAfonsoHenrique/github-readme-stats)
+<div>
 ## Tecnologias que eu estudo e uso no meu dia
 
 <div style="display: inline_block"><br/>
