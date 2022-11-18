@@ -6,4 +6,4 @@
  <p>
   📫 E-mail: <a href='mailto:bruno_afonso_henrique@outlook.com'>bruno_afonso_henrique@outlook.com</a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![BrunoAfonsoHenrique GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAfonsoHenrique&show_icons=true&theme=radical)
