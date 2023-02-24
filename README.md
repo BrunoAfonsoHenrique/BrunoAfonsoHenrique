@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Bruno Afonso ✋
 
 - 💻Hoje trabalho com back-end (JAVA)
-- 🚀Atualmente estou fazendo os cursos Especilista Java e Especilista Spring Rest da AlgaWorks
+- 🚀Atualmente estou fazendo os cursos Especilista Java e Especialista Spring Rest da AlgaWorks
 - 📫 E-mail: <a href='mailto:bruno_afonso_henrique@outlook.com'>bruno_afonso_henrique@outlook.com</a>
 
 ## Redes sociais
